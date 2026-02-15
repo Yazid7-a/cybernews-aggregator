@@ -11,7 +11,7 @@ build/
 venv/
 .venv/
 
-# DB / outputs
+# Local data / outputs
 data/
 reports/
 *.sqlite
